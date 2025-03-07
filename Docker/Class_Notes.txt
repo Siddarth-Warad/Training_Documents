@@ -216,7 +216,7 @@ Day 22 : 28th Feb. 2025
 		
 		
 		
-		docker run -it -p 8080:8089 tomcat
+		docker run -it -p 8089:8080 tomcat
 		
 		Port Number :::
 		
@@ -225,7 +225,7 @@ Day 22 : 28th Feb. 2025
 		
 		Tomcat :
 		
-		docker run -it -p 8080:8089 tomcat
+		docker run -it -p 8089:8080 tomcat
 
    17  apt install docker.io -y
    18  clear
